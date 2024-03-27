@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642385853233",
+    "project_id": "newquizapp-16502",
+    "storage_bucket": "newquizapp-16502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642385853233:android:6a2b0d441a21ffb7bc8e10",
+        "android_client_info": {
+          "package_name": "com.hasanshukurov.quiz_app_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlcBjgF3J1uOLJ66t4icYwajERBIx7ZME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

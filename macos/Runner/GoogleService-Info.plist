@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAT-uIS3tBNQMjbQNaL-06kIm_AKnGbEcE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>642385853233</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hasanshukurov.quizApp1.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>newquizapp-16502</string>
+	<key>STORAGE_BUCKET</key>
+	<string>newquizapp-16502.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:642385853233:ios:d4943e4f290f3687bc8e10</string>
+</dict>
+</plist>
