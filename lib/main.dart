@@ -2,7 +2,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:quiz_app_1/firebase_options.dart';
-import 'package:quiz_app_1/screens/quiz_screen.dart';
 import 'package:quiz_app_1/screens/sign_up_screen.dart';
 import 'package:quiz_app_1/widgets/bottom_nav_bar.dart';
 

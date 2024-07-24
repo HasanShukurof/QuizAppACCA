@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:quiz_app_1/screens/message_screen.dart';
 import 'package:quiz_app_1/screens/quiz_screen.dart';
 import 'package:quiz_app_1/screens/result_screen.dart';
-import 'package:quiz_app_1/screens/users_screen.dart';
 
 class MyWidget extends StatefulWidget {
   const MyWidget({super.key});
@@ -36,6 +35,5 @@ class _MyWidgetState extends State<MyWidget> {
           ]),
       body: pages[myCurrentIndex],
     );
-    ;
   }
 }
